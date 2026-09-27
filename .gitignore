@@ -1,0 +1,28 @@
+# Credentials & Environment Variables
+.env
+.env.*
+*.env
+credentials.json
+client_secret*.json
+*.pem
+*.key
+
+# Local Data & Private Logs
+*.log
+logs/
+tmp/
+temp/
+exports/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
