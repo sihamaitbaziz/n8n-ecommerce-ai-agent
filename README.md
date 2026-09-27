@@ -16,7 +16,7 @@ An automated, intelligent customer support assistant built with **n8n**, **OpenA
 ---
 
 ## 🏗️ Architecture & Workflow
-
+![ShopAssist AI Demo](<workflow demo.png>)
 
 The AI Agent acts as the router, calling specific Google Sheet tools based on user intent:
 
